@@ -1,8 +1,3 @@
-<div align="center">
-  
-  ![Snake animation](https://github.com/kanzaky/kanzaky/blob/output/github-contribution-grid-snake.svg)
-</div>
-
 ### Linux is only free if your time has no value
 - Contribute to Open Source projects
 - Contribute your Open Source projects
@@ -41,4 +36,10 @@
   <a href="https://github.com/kanzaky"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.reddit.com/user/ShadowKanzaky"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
   <a href="mailto:kanzaky@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+</div>
+  
+  
+<div align="center">
+  
+  ![Snake animation](https://github.com/kanzaky/kanzaky/blob/output/github-contribution-grid-snake.svg)
 </div>
