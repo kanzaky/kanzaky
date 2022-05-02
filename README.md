@@ -1,3 +1,4 @@
+<br>
 <img align="right" height="270px" alt="GIF" src="https://c.tenor.com/POvAg2bcNnAAAAAC/linux-ethandud.gif" />
 
 ### I am a Full Stack Developer
