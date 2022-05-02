@@ -9,7 +9,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+<img align="right" height="270px" alt="GIF" src="https://c.tenor.com/POvAg2bcNnAAAAAC/linux-ethandud.gif" />
 
 ### I am a Full Stack Developer
 - 💻 SDE Intern @ <a href="https://pureid.io">PureID </a>
