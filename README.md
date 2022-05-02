@@ -1,4 +1,3 @@
-
 <img align="right" height="270px" alt="GIF" src="https://c.tenor.com/POvAg2bcNnAAAAAC/linux-ethandud.gif" />
 
 ### Linux is only free if your time has no value
