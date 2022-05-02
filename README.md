@@ -1,7 +1,7 @@
 <img align="right" height="270px" alt="GIF" src="https://c.tenor.com/POvAg2bcNnAAAAAC/linux-ethandud.gif" />
 
 ### Linux is only free if your time has no value
-- 🔯 Goals: Contribute to Open Source projects
+- 🔯 Contribute to Open Source projects
 
 ### Languages and Tools: 
 
@@ -14,4 +14,4 @@
 <br>
 <br>
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kanzaky&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sameer's Github Stats" width="60%">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kanzak2y&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sameer's Github Stats" width="60%">
