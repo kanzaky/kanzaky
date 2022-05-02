@@ -1,7 +1,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://c.tenor.com/POvAg2bcNnAAAAAC/linux-ethandud.gif" />
 
-### I am a Full Stack Developer
+### Linux is only free if your time has no value
 - 💻 SDE Intern @ <a href="https://pureid.io">PureID </a>
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 🌱 I’m currently learning Android Development.
