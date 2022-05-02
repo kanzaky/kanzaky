@@ -37,4 +37,4 @@
 ### Github Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sameer1604&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sameer's Github Stats" width="60%">
   
-<img src="https://github.com/rock12231/rock12231/blob/output/github-contribution-grid-snake.svg" width="37%"alt="snake">
+<img src="https://github.com/rock12231/rock12231/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
