@@ -3,7 +3,6 @@
 
 ### Linux is only free if your time has no value
 - 🔯 Goals: Contribute to Open Source projects
-<br>
 
 ### Languages and Tools: 
 
