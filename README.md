@@ -2,16 +2,7 @@
 <img align="right" height="270px" alt="GIF" src="https://c.tenor.com/POvAg2bcNnAAAAAC/linux-ethandud.gif" />
 
 ### Linux is only free if your time has no value
-- 💻 SDE Intern @ <a href="https://pureid.io">PureID </a>
-- 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning Android Development.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2021 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
-
+- 🔯 Goals: Contribute to Open Source projects
 <br>
 
 ### Languages and Tools: 
