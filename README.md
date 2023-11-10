@@ -1,6 +1,6 @@
 ### Linux is only free if your time has no value
 - Contribute to Open Source projects
-- Contribute your Open Source projects
+- Contribute your projects to Open Source 
 
 ### 💡 Potential Skills
 <div align="left">
